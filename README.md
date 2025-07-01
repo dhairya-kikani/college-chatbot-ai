@@ -56,19 +56,19 @@ College_Chatbot/
 ## Local Setup Instructions ##
 
 1. Clone the Repository
-    git clone https://github.com/dhairya-kikani/college-chatbot-ai.git
+```  git clone https://github.com/dhairya-kikani/college-chatbot-ai.git ```
 
-2. Create & Activate Environment
+3. Create & Activate Environment
     Make sure you have Anaconda installed. Then run:
 
-    conda create -n tf_metal_env python=3.10 -y
-    conda activate tf_metal_env
+```  conda create -n tf_metal_env python=3.10 -y ```
+```  conda activate tf_metal_env ```
 
-3. Install Requirements
-    pip install -r requirements.txt
+5. Install Requirements
+```  pip install -r requirements.txt ```
 
-4. Run the Chatbot (All-in-One Script)
-    ./scripts/run_all.sh
+6. Run the Chatbot (All-in-One Script)
+```  ./scripts/run_all.sh ```
 
 ## Tech Stack ##
 
