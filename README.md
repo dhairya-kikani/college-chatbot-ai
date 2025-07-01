@@ -87,7 +87,8 @@ College_Chatbot/
 - Tokenizer warning on Mac is harmless — ignored with TOKENIZERS_PARALLELISM=false
 
 ## Contact ##
-
+```
 For queries, feature requests, or collaboration: Dhairya Kikani
 Email: kikanidhairya@gmail.com
 GitHub: https://github.com/dhairya-kikani
+```
