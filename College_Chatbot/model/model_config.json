@@ -1,0 +1,7 @@
+{
+    "model_name": "all-MiniLM-L6-v2",
+    "source": "sentence-transformers",
+    "downloaded": false,
+    "description": "Default BERT model used for semantic similarity in college chatbot."
+  }
+  
