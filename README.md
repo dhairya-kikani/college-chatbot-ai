@@ -1,4 +1,4 @@
-### College Chatbot ###
+# College Chatbot #
 
 A locally running AI-powered chatbot designed to assist college students with academic and campus-related queries. It uses a custom BERT-based model to provide intelligent responses and also logs unanswered questions for future improvement.
 
